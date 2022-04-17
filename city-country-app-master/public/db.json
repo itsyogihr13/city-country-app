@@ -1,0 +1,11 @@
+{
+  "cities": [
+    {
+      "country": "india",
+      "city": "bahadurgarh",
+      "population": "787878",
+      "id": 1
+    }
+  ],
+  "countries": []
+}

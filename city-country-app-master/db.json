@@ -1,0 +1,17 @@
+{
+  "cities": [
+    {
+      "country": "india",
+      "city": "kokooko",
+      "population": "4455",
+      "id": 1
+    },
+    {
+      "country": "",
+      "city": "ece",
+      "population": "7878",
+      "id": 2
+    }
+  ],
+  "countries": []
+}
